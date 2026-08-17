@@ -60,6 +60,7 @@ span {
   color: white;
   font-size: 35px;
   padding: 40px;
+  height: 350px;
 }
 
 .box-2 span {
@@ -85,12 +86,12 @@ span {
 }
 
 .box-3 img {
-  width: 100%;
+  width: 200%;
   height: 100%;
   object-fit: contain;
   display: block;
-  margin-top: -180px;
-  margin-bottom: -180px;
+  margin-top: -120px;
+  margin-bottom: -120px;
 }
 
 .box-4 {
@@ -115,6 +116,7 @@ span {
   border-radius: 20px;
   padding: 15px;
   overflow: hidden;
+  height: 200px;
 }
 
 .box-5 img {
@@ -155,8 +157,8 @@ span {
 }
 
 .box-7 img {
-  width: 100%;
-  height: 100%;
+  width: 80%;
+  height: 80%;
   object-fit: contain;
   display: block;
   margin-top: -20px;
